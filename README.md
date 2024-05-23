@@ -1,5 +1,5 @@
 # Python Blockchain
-### Simple blockchain setup using python. Blockchain utilizes the PoW and consensus algorithms. 
+### A simple blockchain setup using python. This blockchain utilizes the PoW and consensus algorithms. 
 
 This project was created by following Daniel van Flymen's guide on 
 <a href="https://hackernoon.com/learn-blockchains-by-building-one-117428612f46">Learn Blockchains by Building One</a>. 
